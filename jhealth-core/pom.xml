@@ -21,7 +21,7 @@
         <prettier-plugin-java.version>0.8.0</prettier-plugin-java.version>
         <prettier.version>2.0.5</prettier.version>
         <spotless.version>2.22.1</spotless.version>
-        <testcontainers.version>1.16.2</testcontainers.version>
+        <testcontainers.version>1.17.1</testcontainers.version>
     </properties>
 
     <dependencyManagement>
