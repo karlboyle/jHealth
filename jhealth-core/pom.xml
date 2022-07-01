@@ -20,7 +20,7 @@
         <java.version>17</java.version>
         <prettier-plugin-java.version>0.8.0</prettier-plugin-java.version>
         <prettier.version>2.0.5</prettier.version>
-        <spotless.version>2.22.5</spotless.version>
+        <spotless.version>2.23.0</spotless.version>
         <testcontainers.version>1.17.1</testcontainers.version>
     </properties>
 
